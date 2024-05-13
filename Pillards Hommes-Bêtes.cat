@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<catalogue id="e783-91c9-0f57-a7bb" name="Beastmen Raiders (1a)" revision="4" battleScribeVersion="2.03" library="false" gameSystemId="9481a749-7900-614b-1695-bdc2899069c1" gameSystemRevision="15" xmlns="http://www.battlescribe.net/schema/catalogueSchema" type="catalogue">
+<catalogue id="e783-91c9-0f57-a7bb" name="Pillards Hommes-Bêtes (1a)" revision="4" battleScribeVersion="2.03" library="false" gameSystemId="9481a749-7900-614b-1695-bdc2899069c1" gameSystemRevision="15" xmlns="http://www.battlescribe.net/schema/catalogueSchema" type="catalogue">
   <publications>
-    <publication id="b758-ee46-f27e-58dd" name="Beastman Rules" shortName="Beastman" publisher="https://broheim.net/downloads/warbands/unofficial/Beastmen%2C%20Errata%27d.pdf" publisherUrl="https://broheim.net/downloads/warbands/unofficial/Beastmen%2C%20Errata%27d.pdf"/>
+    <publication id="b758-ee46-f27e-58dd" name="PDF Pillards Hommes-Bêtes VF [GLM]" shortName="Hommes-Bêtes" publisher="https://sites.google.com/view/grande-librairie-de-mordheim/bandes/pillards-hommes-b%C3%AAtes" publisherUrl="https://broheim.net/downloads/warbands/unofficial/Beastmen%2C%20Errata%27d.pdf"/>
   </publications>
   <selectionEntries>
     <selectionEntry id="571f-6ba6-38b8-a862" name="Beastmen Chieftain" hidden="false" collective="false" import="true" type="model">
